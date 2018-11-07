@@ -31,6 +31,7 @@
     "@ckeditor/ckeditor5-build-classic": "^11.1.1",
     "@ckeditor/ckeditor5-build-decoupled-document": "^11.1.1",
     "@ckeditor/ckeditor5-build-inline": "^11.1.1",
+    "@ckeditor/ckeditor5-ckfinder": "^0.0.1",
     "@ckeditor/ckeditor5-clipboard": "^10.0.3",
     "@ckeditor/ckeditor5-cloud-services": "^10.1.0",
     "@ckeditor/ckeditor5-core": "^11.0.1",
